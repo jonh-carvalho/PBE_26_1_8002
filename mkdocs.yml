@@ -100,6 +100,7 @@ plugins:
 theme:
   name: material
   logo: assets/logo.png
+  favicon: assets/ibmec_icon.png
   palette:
     
     - media: "(prefers-color-scheme)"
